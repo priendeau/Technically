@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A6-Xenon1-Negative-Pin"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 77.79,382.04
+           C 90.52,396.21 82.51,418.04 64.00,421.53
+             38.00,426.44 23.51,395.11 43.02,379.39
+             46.49,376.59 49.76,375.48 54.00,374.47
+             62.97,373.21 71.51,375.06 77.79,382.04 Z" />
+</svg>

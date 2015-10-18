@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A8-Tesla-Coil-Pin2"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 348.50,190.75
+           C 376.40,191.67 384.85,227.79 358.50,239.16
+             354.14,241.04 350.22,241.65 345.50,241.46
+             323.35,240.57 311.29,216.17 325.83,199.54
+             329.96,194.82 335.52,192.39 341.50,190.75
+             344.13,190.60 345.82,190.43 348.50,190.75 Z" />
+</svg>

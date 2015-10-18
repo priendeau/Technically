@@ -1,0 +1,22 @@
+###
+### FootPrint Added, see Prefixed-Var ZSEAddFootPrint from ZenityShellEval
+###
+
+###File:b594b59c-11c2-11e3-98a2-001b3875b29c
+###UUID-TIME-MARKER:6355355c-11c4-11e3-98a2-001b3875b29c
+###Date: ${StrDateFormat}
+###Sha1Sum: 8a0d8ff4caadb1792ef3c0e8db38caa73e5d24f2
+### Size:767
+### NbWord: 99\ndeclare -a ArrayFile=( $( find /home/maxiste/Pictures/hvpe_nuclear_holdrum/ -maxdepth 1 -type f -printf "%p " ) ) ; 
+for item in ${ArrayFile[@]} ; do 
+  _AF=( ${item//\// } ) ; 
+  index=$(( ${#_AF[@]} -1 ))
+  file=${_AF[${index}]} ; 
+  checksum=$( sha1sum -b ${file} | cut -d ' ' -f 1 ) ;
+  size=$( wc -c ${file} | cut -d ' ' -f 1 ) ; 
+  echo -ne "\nAdding file ${item}\nFile:${file}\nSha1sum: ${checksum}\nsize: ${size}\n" ; 
+  echo -ne "file:${file}\nchecksum:${checksum}\nsize:${size}\n"  > report.txt ; 
+  cp ${file} current_file.jpeg ; 
+  git commit -m "Adding file ${file}, original location:${item}, checksum:${checksum} size:${size} file:${file} report:report.txt, index_file:current_file.jpeg" current_file.jpeg report.txt ; 
+ git push origin master ; 
+done

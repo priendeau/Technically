@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A8-Trigger-to-Tesla-Coil"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 454.00,564.48
+           C 438.43,567.86 424.80,555.04 423.17,540.00
+             421.55,525.07 429.12,511.62 444.00,507.52
+             479.90,501.83 486.19,557.50 454.00,564.48 Z" />
+</svg>

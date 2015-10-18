@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A6-Negative-Pin-Capacitor-380mF"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 89.00,433.24
+           C 125.37,433.85 136.08,483.29 103.00,498.68
+             97.21,501.37 92.32,502.13 86.00,501.99
+             56.80,501.31 41.49,467.26 60.33,445.01
+             65.84,438.50 72.84,435.28 81.00,433.24
+             83.93,433.06 86.04,432.95 89.00,433.24 Z" />
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A1-Transformer-in-T1"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 745.82,164.18
+           C 757.84,176.20 756.33,197.36 742.00,206.89
+             738.45,209.25 734.18,210.78 730.00,211.54
+             702.41,216.51 684.64,183.73 704.18,164.18
+             708.72,159.65 713.92,157.82 720.00,156.46
+             729.12,155.20 739.13,157.50 745.82,164.18 Z" />
+</svg>

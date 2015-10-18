@@ -1,0 +1,10 @@
+.gitignore
+README.rst
+MANIFEST.in
+.
+./lm324_falstad_export.txt
+./Images
+./Images/lm324.png
+./Images/.gitignore
+./Images/README.rst
+./Images/MANIFEST.in

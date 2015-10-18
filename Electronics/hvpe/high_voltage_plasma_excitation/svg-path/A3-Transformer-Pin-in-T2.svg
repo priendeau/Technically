@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A3-Transformer-Pin-in-T2"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 745.82,282.18
+           C 757.84,294.20 756.33,315.36 742.00,324.89
+             738.45,327.25 734.18,328.78 730.00,329.54
+             702.41,334.51 684.64,301.73 704.18,282.18
+             708.72,277.65 713.92,275.82 720.00,274.46
+             729.12,273.20 739.13,275.50 745.82,282.18 Z" />
+</svg>

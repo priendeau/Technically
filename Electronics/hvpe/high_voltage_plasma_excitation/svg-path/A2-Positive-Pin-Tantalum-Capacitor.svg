@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A2-Positive-Pin-Tantalum-Capacitor"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 346.00,428.28
+           C 349.38,428.30 352.99,429.29 356.00,430.83
+             377.81,442.00 367.97,473.45 343.00,471.91
+             326.31,470.88 314.24,452.70 324.65,438.00
+             328.60,432.42 333.56,430.00 340.00,428.28
+             342.30,428.15 343.63,427.95 346.00,428.28 Z" />
+</svg>

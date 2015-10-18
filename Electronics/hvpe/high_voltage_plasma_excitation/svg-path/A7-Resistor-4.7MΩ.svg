@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A7-Resistor-4.7MΩ"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 574.56,479.59
+           C 586.10,494.60 576.76,515.59 558.50,519.03
+             532.69,523.90 517.52,493.44 534.80,476.97
+             538.86,473.09 543.14,471.24 548.50,469.97
+             558.41,468.58 568.25,471.38 574.56,479.59 Z
+           M 639.00,489.50" />
+</svg>

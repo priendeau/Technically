@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A6-Resistor-4.7MΩ-To-Diode"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 697.06,480.09
+           C 708.60,495.10 699.26,516.09 681.00,519.53
+             655.19,524.40 640.02,493.94 657.30,477.47
+             661.36,473.59 665.64,471.74 671.00,470.47
+             680.91,469.08 690.75,471.88 697.06,480.09 Z" />
+</svg>

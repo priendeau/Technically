@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A2-Emittor-Pin-NPN-2SC5765"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 868.00,371.55
+           C 871.14,372.67 874.23,374.44 876.70,376.68
+             892.42,390.89 881.21,415.94 857.00,414.96
+             836.22,414.12 825.14,391.79 839.47,377.47
+             843.40,373.53 847.69,371.73 853.00,370.47
+             858.20,369.74 862.98,369.76 868.00,371.55 Z" />
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="13.5417in" height="10.0694in"
+     viewBox="0 0 975 725">
+  <path id="A6-Positive-Pin-Diode1"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 756.56,487.59
+           C 768.10,502.60 758.76,523.59 740.50,527.03
+             714.69,531.90 699.52,501.44 716.80,484.97
+             720.86,481.09 725.14,479.24 730.50,477.97
+             740.41,476.58 750.25,479.38 756.56,487.59 Z" />
+</svg>
