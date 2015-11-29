@@ -1,0 +1,63 @@
+
+
+
+plate 1 darlinton Double pair Darlington with Inductance protection on each transistor.
+- goal, conversion from Henry to Joule for decay Of lawrencium 
+
+- Having uses AWG 24 with .019 in +/- (.002 in in diameter ) for wiring the thermal dissipation
+to clear and cool down the transistor, there is implicite magnetance ability for each transistor
+to not di-electrically be impared by presence of nuclear reation. Aka gamma ray and alpha-ray 
+may compromise the Beta-hFE in any moment by directly increase amount of electron in circulation. 
+
+- Having dopped each resistor R1 and R2 and transistor from 2 Darlingtons pairs of Lawrencium 
+epoxy-compound the gamma-ray and possible alpha-ray is totally present. Affecting Beta-Hfe during 
+cut-off or signal emission from each transistor, this wire around transistor can collect excess 
+of upcoming energy . 
+
+Notice : Lawrencium extracted from mine is doped with many other elements like uranium, and 
+other pro-actinide . Weight mass ratio is around 266 gr / mol , and wikipedia did not talk 
+about mine discovery hold untreatable and to fissible uranium found in north-east of 
+Ontario around lower Baie-Hudson mine hold too heavy Uranium and plaussible Lawrencium. 
+
+typical transistor region can be mesured from emiter side to collector side and 
+
+emitter side to collector length = .183 in -> ideal diameter from side to side length 0.221 in  
+front to rear length  .138 in  -> ideal diameter from rear to front lenght 0.178 in. 
+- will give an approximate circular diameter of 0.1995 in 
+
+Each transistor height is around .182 in and by wiring almost it's height will give for 0.020 in of AWG 24 9.1 turn... 
+
+so ideally inductance L is about 0.30318 uH 
+
+pair 1 , transistor 1 
+approximated diameter ( .246 and .215 , approx 0.2305 in )
+d = 0.2305 in
+l = .231 in
+n = 11
+-------
+L = 0.48015 uH 
+
+pair 1 , transistor 2 
+approximated diameter ( .245 and .215 , approx 0.2305 in )
+d = .2305 in
+l = .234  in
+n = 11 
+-------
+L = 0.47589 uH 
+
+pair 1 , transistor 1 
+approximated diameter (  .228 and .202 , approx 0.215 in  )
+d = 0.215 in
+l =  .212 in
+n = 11 
+-------
+L = 0.45289 uH 
+
+pair 2 , transistor 2 
+approximated diameter ( .242 and .171 , approx  in )
+d = 0.2065 in 
+l = .263 in
+n = 12
+-------
+L = 0.43130 uH 
+
